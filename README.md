@@ -14,7 +14,7 @@ This project demonstrates a Streamlit-based web application that uses the ChatGr
 
 ## Prerequisites
 
-- Python 3.7+
+- Python 3.10+ (Used 3.12 here)
 - Groq API key
 
 ## Installation
